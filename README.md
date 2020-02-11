@@ -1,6 +1,6 @@
 # Private Events
 
-In this app we created a blog where users can create and attend events, similar to [Everbrite](https://www.eventbrite.com/). It has the following functionalities:
+In this app we created a blog where users can create and attend events, similar to [Eventbrite](https://www.eventbrite.com/). It has the following functionalities:
 
 - Sign up new user;
 - Authenticate user;
